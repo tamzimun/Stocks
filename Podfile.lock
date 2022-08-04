@@ -1,0 +1,38 @@
+PODS:
+  - Charts (4.0.3):
+    - Charts/Core (= 4.0.3)
+  - Charts/Core (4.0.3):
+    - SwiftAlgorithms (~> 1.0)
+  - HGPlaceholders (0.5.0)
+  - Kingfisher (7.3.0)
+  - SkeletonView (1.29.2)
+  - SnapKit (5.6.0)
+  - SwiftAlgorithms (1.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - HGPlaceholders
+  - Kingfisher (~> 7.0)
+  - SkeletonView
+  - SnapKit (~> 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - HGPlaceholders
+    - Kingfisher
+    - SkeletonView
+    - SnapKit
+    - SwiftAlgorithms
+
+SPEC CHECKSUMS:
+  Charts: d959d6723c8eedfdd0735dfc28cb0a71762ac4d9
+  HGPlaceholders: cbf8caed8360fc2ab5e8a4610cce61f76fbd2c37
+  Kingfisher: cdb1189a9223b1bc028816bd47c8b8101a58831c
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+
+PODFILE CHECKSUM: 81e350a3124f05ab66df61c259408c8b5db7839e
+
+COCOAPODS: 1.11.3
