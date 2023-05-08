@@ -2,7 +2,7 @@
 //  StockRequest.swift
 //  StocksApp
 //
-//  Created by Olzhas Seiilkhanov on 03.08.2022.
+//  Created by tamzimun on 03.08.2022.
 //
 
 import Foundation

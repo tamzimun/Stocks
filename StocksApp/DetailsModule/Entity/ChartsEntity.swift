@@ -2,7 +2,7 @@
 //  ChartsEntity.swift
 //  StocksApp
 //
-//  Created by Aida Moldaly on 26.07.2022.
+//  Created by tamzimun on 26.07.2022.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  FilterCollectionViewCell.swift
 //  StocksApp
 //
-//  Created by Aida Moldaly on 01.08.2022.
+//  Created by tamzimun on 01.08.2022.
 //
 
 import UIKit

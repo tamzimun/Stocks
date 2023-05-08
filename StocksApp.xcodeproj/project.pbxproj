@@ -208,13 +208,6 @@
 			path = Entity;
 			sourceTree = "<group>";
 		};
-		1C642549288FD67F00211DB6 /* Entity */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Entity;
-			sourceTree = "<group>";
-		};
 		1C64254A288FE28E00211DB6 /* NetworkManager */ = {
 			isa = PBXGroup;
 			children = (
@@ -413,7 +406,6 @@
 		31B9850A288E92DB00E88E6F /* SearchModule */ = {
 			isa = PBXGroup;
 			children = (
-				1C642549288FD67F00211DB6 /* Entity */,
 				31408686288EA0BB007FAFAA /* Assembly */,
 				31408687288EA0C2007FAFAA /* Router */,
 				31408688288EA0C8007FAFAA /* Interactor */,
